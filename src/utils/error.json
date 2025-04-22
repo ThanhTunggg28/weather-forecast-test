@@ -1,0 +1,4 @@
+{
+  "city not found": "Invalid country or city",
+  "Invalid API key. Please see https://openweathermap.org/faq#error401 for more info.": "Invalid API key."
+}
